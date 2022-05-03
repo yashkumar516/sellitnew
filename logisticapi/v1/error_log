@@ -1,0 +1,288 @@
+[24-Apr-2022 15:41:53 Asia/Calcutta] PHP Notice:  Undefined property: stdClass::$response in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 349
+[24-Apr-2022 16:13:40 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function str_relace() in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php:342
+Stack trace:
+#0 /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/completeleads.php(46): Users->leadcomplete()
+#1 {main}
+  thrown in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 342
+[24-Apr-2022 17:32:07 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 334
+[24-Apr-2022 17:32:07 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 335
+[24-Apr-2022 17:32:07 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 339
+[24-Apr-2022 17:32:07 Asia/Calcutta] PHP Notice:  Trying to get property 'ActCode' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 348
+[24-Apr-2022 17:32:07 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function str_replce() in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php:349
+Stack trace:
+#0 /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/completeleads.php(46): Users->leadcomplete()
+#1 {main}
+  thrown in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 349
+[24-Apr-2022 17:32:12 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 334
+[24-Apr-2022 17:32:12 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 335
+[24-Apr-2022 17:32:12 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 339
+[24-Apr-2022 17:32:12 Asia/Calcutta] PHP Notice:  Trying to get property 'ActCode' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 348
+[24-Apr-2022 17:32:12 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function str_replce() in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php:349
+Stack trace:
+#0 /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/completeleads.php(46): Users->leadcomplete()
+#1 {main}
+  thrown in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 349
+[24-Apr-2022 17:32:51 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 334
+[24-Apr-2022 17:32:51 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 335
+[24-Apr-2022 17:32:51 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 339
+[24-Apr-2022 17:32:51 Asia/Calcutta] PHP Notice:  Trying to get property 'ActCode' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 348
+[24-Apr-2022 17:32:51 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function str_replce() in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php:349
+Stack trace:
+#0 /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/completeleads.php(46): Users->leadcomplete()
+#1 {main}
+  thrown in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 349
+[24-Apr-2022 17:33:27 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 334
+[24-Apr-2022 17:33:27 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 335
+[24-Apr-2022 17:33:27 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 339
+[24-Apr-2022 17:33:27 Asia/Calcutta] PHP Notice:  Trying to get property 'ActCode' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 348
+[24-Apr-2022 17:33:27 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function str_replce() in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php:349
+Stack trace:
+#0 /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/completeleads.php(46): Users->leadcomplete()
+#1 {main}
+  thrown in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 349
+[24-Apr-2022 17:33:31 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 334
+[24-Apr-2022 17:33:31 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 335
+[24-Apr-2022 17:33:31 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 339
+[24-Apr-2022 17:33:31 Asia/Calcutta] PHP Notice:  Trying to get property 'ActCode' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 348
+[24-Apr-2022 17:33:31 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function str_replce() in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php:349
+Stack trace:
+#0 /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/completeleads.php(46): Users->leadcomplete()
+#1 {main}
+  thrown in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 349
+[24-Apr-2022 17:35:58 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 334
+[24-Apr-2022 17:35:58 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 335
+[24-Apr-2022 17:35:58 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 339
+[24-Apr-2022 17:35:58 Asia/Calcutta] PHP Notice:  Trying to get property 'ActCode' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 348
+[24-Apr-2022 17:35:58 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function str_replce() in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php:349
+Stack trace:
+#0 /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/completeleads.php(46): Users->leadcomplete()
+#1 {main}
+  thrown in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 349
+[24-Apr-2022 17:36:07 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 334
+[24-Apr-2022 17:36:07 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 335
+[24-Apr-2022 17:36:07 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 339
+[24-Apr-2022 17:36:07 Asia/Calcutta] PHP Notice:  Trying to get property 'ActCode' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 348
+[24-Apr-2022 17:36:07 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function str_replce() in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php:349
+Stack trace:
+#0 /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/completeleads.php(46): Users->leadcomplete()
+#1 {main}
+  thrown in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 349
+[24-Apr-2022 17:37:46 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 334
+[24-Apr-2022 17:37:46 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 335
+[24-Apr-2022 17:37:46 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 339
+[24-Apr-2022 17:37:46 Asia/Calcutta] PHP Notice:  Trying to get property 'ActCode' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 348
+[24-Apr-2022 17:37:46 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function str_replce() in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php:349
+Stack trace:
+#0 /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/completeleads.php(46): Users->leadcomplete()
+#1 {main}
+  thrown in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 349
+[24-Apr-2022 17:40:12 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 334
+[24-Apr-2022 17:40:12 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 335
+[24-Apr-2022 17:40:12 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 339
+[24-Apr-2022 17:40:12 Asia/Calcutta] PHP Notice:  Trying to get property 'ActCode' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 348
+[24-Apr-2022 17:40:12 Asia/Calcutta] PHP Notice:  Trying to get property 'Response' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 349
+[24-Apr-2022 17:40:12 Asia/Calcutta] PHP Notice:  Trying to get property 'BankRRN' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 350
+[24-Apr-2022 17:40:12 Asia/Calcutta] PHP Notice:  Trying to get property 'BeneName' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 351
+[24-Apr-2022 17:40:12 Asia/Calcutta] PHP Notice:  Trying to get property 'TransRefNo' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 352
+[24-Apr-2022 17:40:40 Asia/Calcutta] PHP Notice:  Undefined property: stdClass::$encryptedKey in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 130
+[24-Apr-2022 17:40:40 Asia/Calcutta] PHP Notice:  Undefined property: stdClass::$encryptedData in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 131
+[24-Apr-2022 17:40:40 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 140
+[24-Apr-2022 17:48:10 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 334
+[24-Apr-2022 17:48:10 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 335
+[24-Apr-2022 17:48:10 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 339
+[24-Apr-2022 17:48:10 Asia/Calcutta] PHP Notice:  Trying to get property 'ActCode' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 348
+[24-Apr-2022 17:48:10 Asia/Calcutta] PHP Notice:  Trying to get property 'Response' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 349
+[24-Apr-2022 17:48:10 Asia/Calcutta] PHP Notice:  Trying to get property 'BankRRN' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 350
+[24-Apr-2022 17:48:10 Asia/Calcutta] PHP Notice:  Trying to get property 'BeneName' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 351
+[24-Apr-2022 17:48:10 Asia/Calcutta] PHP Notice:  Trying to get property 'TransRefNo' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 352
+[24-Apr-2022 17:48:18 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 334
+[24-Apr-2022 17:48:18 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 335
+[24-Apr-2022 17:48:18 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 339
+[24-Apr-2022 17:48:18 Asia/Calcutta] PHP Notice:  Trying to get property 'ActCode' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 348
+[24-Apr-2022 17:48:18 Asia/Calcutta] PHP Notice:  Trying to get property 'Response' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 349
+[24-Apr-2022 17:48:18 Asia/Calcutta] PHP Notice:  Trying to get property 'BankRRN' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 350
+[24-Apr-2022 17:48:18 Asia/Calcutta] PHP Notice:  Trying to get property 'BeneName' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 351
+[24-Apr-2022 17:48:18 Asia/Calcutta] PHP Notice:  Trying to get property 'TransRefNo' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 352
+[24-Apr-2022 17:50:50 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 334
+[24-Apr-2022 17:50:50 Asia/Calcutta] PHP Warning:  openssl_private_decrypt(): key parameter is not a valid private key in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 334
+[24-Apr-2022 17:50:50 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 335
+[24-Apr-2022 17:50:50 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 339
+[24-Apr-2022 17:50:50 Asia/Calcutta] PHP Notice:  Trying to get property 'ActCode' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 348
+[24-Apr-2022 17:50:50 Asia/Calcutta] PHP Notice:  Trying to get property 'Response' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 349
+[24-Apr-2022 17:50:50 Asia/Calcutta] PHP Notice:  Trying to get property 'BankRRN' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 350
+[24-Apr-2022 17:50:50 Asia/Calcutta] PHP Notice:  Trying to get property 'BeneName' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 351
+[24-Apr-2022 17:50:50 Asia/Calcutta] PHP Notice:  Trying to get property 'TransRefNo' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 352
+[24-Apr-2022 17:54:23 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 129
+[24-Apr-2022 17:54:23 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 130
+[24-Apr-2022 17:54:23 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 139
+[24-Apr-2022 17:57:31 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 129
+[24-Apr-2022 17:57:31 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 130
+[24-Apr-2022 17:57:31 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 139
+[24-Apr-2022 17:58:16 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 129
+[24-Apr-2022 17:58:16 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 130
+[24-Apr-2022 17:58:16 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 139
+[24-Apr-2022 18:01:22 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 133
+[24-Apr-2022 18:01:22 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 134
+[24-Apr-2022 18:01:22 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 144
+[24-Apr-2022 18:02:55 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 133
+[24-Apr-2022 18:02:55 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 134
+[24-Apr-2022 18:02:55 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 144
+[24-Apr-2022 18:44:10 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 334
+[24-Apr-2022 18:44:10 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 335
+[24-Apr-2022 18:44:10 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 339
+[24-Apr-2022 18:44:10 Asia/Calcutta] PHP Notice:  Trying to get property 'ActCode' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 348
+[24-Apr-2022 18:44:10 Asia/Calcutta] PHP Notice:  Trying to get property 'Response' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 349
+[24-Apr-2022 18:44:10 Asia/Calcutta] PHP Notice:  Trying to get property 'BankRRN' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 350
+[24-Apr-2022 18:44:10 Asia/Calcutta] PHP Notice:  Trying to get property 'BeneName' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 351
+[24-Apr-2022 18:44:10 Asia/Calcutta] PHP Notice:  Trying to get property 'TransRefNo' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 352
+[24-Apr-2022 18:44:17 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 334
+[24-Apr-2022 18:44:17 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 335
+[24-Apr-2022 18:44:17 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 339
+[24-Apr-2022 18:44:17 Asia/Calcutta] PHP Notice:  Trying to get property 'ActCode' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 348
+[24-Apr-2022 18:44:17 Asia/Calcutta] PHP Notice:  Trying to get property 'Response' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 349
+[24-Apr-2022 18:44:17 Asia/Calcutta] PHP Notice:  Trying to get property 'BankRRN' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 350
+[24-Apr-2022 18:44:17 Asia/Calcutta] PHP Notice:  Trying to get property 'BeneName' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 351
+[24-Apr-2022 18:44:17 Asia/Calcutta] PHP Notice:  Trying to get property 'TransRefNo' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 352
+[24-Apr-2022 18:44:55 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 334
+[24-Apr-2022 18:44:55 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 335
+[24-Apr-2022 18:44:55 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 339
+[24-Apr-2022 18:44:55 Asia/Calcutta] PHP Notice:  Trying to get property 'ActCode' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 348
+[24-Apr-2022 18:44:55 Asia/Calcutta] PHP Notice:  Trying to get property 'Response' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 349
+[24-Apr-2022 18:44:55 Asia/Calcutta] PHP Notice:  Trying to get property 'BankRRN' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 350
+[24-Apr-2022 18:44:55 Asia/Calcutta] PHP Notice:  Trying to get property 'BeneName' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 351
+[24-Apr-2022 18:44:55 Asia/Calcutta] PHP Notice:  Trying to get property 'TransRefNo' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/classes/users.php on line 352
+[25-Apr-2022 09:38:54 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 133
+[25-Apr-2022 09:38:54 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 134
+[25-Apr-2022 09:38:54 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 144
+[25-Apr-2022 16:13:46 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 133
+[25-Apr-2022 16:13:46 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 134
+[25-Apr-2022 16:13:46 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 144
+[25-Apr-2022 16:15:57 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 133
+[25-Apr-2022 16:15:57 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 134
+[25-Apr-2022 16:15:57 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 144
+[25-Apr-2022 16:16:27 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 133
+[25-Apr-2022 16:16:27 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 134
+[25-Apr-2022 16:16:27 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 144
+[25-Apr-2022 16:16:47 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 133
+[25-Apr-2022 16:16:47 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 134
+[25-Apr-2022 16:16:47 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 144
+[25-Apr-2022 16:16:49 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 133
+[25-Apr-2022 16:16:49 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 134
+[25-Apr-2022 16:16:49 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 144
+[25-Apr-2022 16:18:07 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 133
+[25-Apr-2022 16:18:07 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 134
+[25-Apr-2022 16:18:07 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 144
+[25-Apr-2022 16:18:15 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 133
+[25-Apr-2022 16:18:15 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 134
+[25-Apr-2022 16:18:15 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 144
+[25-Apr-2022 16:22:01 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 133
+[25-Apr-2022 16:22:01 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 134
+[25-Apr-2022 16:22:01 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 144
+[25-Apr-2022 16:28:25 Asia/Calcutta] PHP Notice:  Undefined variable: output in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 132
+[25-Apr-2022 16:28:25 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 134
+[25-Apr-2022 16:28:25 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 135
+[25-Apr-2022 16:28:25 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 145
+[25-Apr-2022 16:28:56 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 134
+[25-Apr-2022 16:28:56 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 135
+[25-Apr-2022 16:28:56 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 145
+[25-Apr-2022 16:29:38 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 135
+[25-Apr-2022 16:29:38 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 136
+[25-Apr-2022 16:29:38 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 146
+[25-Apr-2022 16:30:46 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 135
+[25-Apr-2022 16:30:46 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 136
+[25-Apr-2022 16:30:46 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 146
+[25-Apr-2022 22:46:58 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 135
+[25-Apr-2022 22:46:58 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 136
+[25-Apr-2022 22:46:58 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 146
+[25-Apr-2022 22:47:59 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 135
+[25-Apr-2022 22:47:59 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 136
+[25-Apr-2022 22:47:59 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 146
+[26-Apr-2022 14:27:14 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 135
+[26-Apr-2022 14:27:14 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 136
+[26-Apr-2022 14:27:14 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 146
+[28-Apr-2022 19:10:14 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 135
+[28-Apr-2022 19:10:14 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 136
+[28-Apr-2022 19:10:14 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 146
+[28-Apr-2022 19:11:13 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 135
+[28-Apr-2022 19:11:13 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 136
+[28-Apr-2022 19:11:13 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 146
+[28-Apr-2022 19:12:01 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 135
+[28-Apr-2022 19:12:01 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 136
+[28-Apr-2022 19:12:01 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 146
+[28-Apr-2022 19:12:38 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 136
+[28-Apr-2022 19:12:38 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 137
+[28-Apr-2022 19:12:38 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 147
+[28-Apr-2022 19:13:27 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 137
+[28-Apr-2022 19:13:27 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 138
+[28-Apr-2022 19:13:27 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 148
+[29-Apr-2022 10:43:20 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 137
+[29-Apr-2022 10:43:20 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 138
+[29-Apr-2022 10:43:20 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 148
+[29-Apr-2022 10:44:35 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 137
+[29-Apr-2022 10:44:35 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 138
+[29-Apr-2022 10:44:35 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 148
+[29-Apr-2022 10:44:38 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 137
+[29-Apr-2022 10:44:38 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 138
+[29-Apr-2022 10:44:38 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 148
+[29-Apr-2022 11:53:47 Asia/Calcutta] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 136
+[29-Apr-2022 11:56:45 Asia/Calcutta] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 136
+[29-Apr-2022 12:01:15 Asia/Calcutta] PHP Notice:  Undefined variable: data in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 137
+[29-Apr-2022 12:01:15 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 139
+[29-Apr-2022 12:01:15 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 140
+[29-Apr-2022 12:01:15 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 150
+[29-Apr-2022 12:01:50 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 139
+[29-Apr-2022 12:01:50 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 140
+[29-Apr-2022 12:01:50 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 150
+[29-Apr-2022 12:02:38 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 138
+[29-Apr-2022 12:02:38 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 139
+[29-Apr-2022 12:02:38 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 149
+[29-Apr-2022 12:04:00 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 140
+[29-Apr-2022 12:04:00 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 141
+[29-Apr-2022 12:04:00 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 151
+[29-Apr-2022 12:08:32 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 139
+[29-Apr-2022 12:08:32 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 140
+[29-Apr-2022 12:08:32 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 141
+[29-Apr-2022 12:08:32 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 151
+[29-Apr-2022 12:08:53 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 139
+[29-Apr-2022 12:08:53 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 140
+[29-Apr-2022 12:08:53 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 141
+[29-Apr-2022 12:08:53 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 151
+[29-Apr-2022 12:09:24 Asia/Calcutta] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 136
+[29-Apr-2022 12:11:15 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 142
+[29-Apr-2022 12:11:15 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 143
+[29-Apr-2022 12:11:15 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 153
+[29-Apr-2022 12:13:44 Asia/Calcutta] PHP Warning:  Illegal string offset 'encryptedKey' in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 142
+[29-Apr-2022 12:13:44 Asia/Calcutta] PHP Warning:  Illegal string offset 'encryptedData' in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 143
+[29-Apr-2022 12:13:44 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 153
+[29-Apr-2022 12:14:28 Asia/Calcutta] PHP Notice:  Array to string conversion in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 136
+[29-Apr-2022 12:14:28 Asia/Calcutta] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 140
+[29-Apr-2022 12:14:28 Asia/Calcutta] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 140
+[29-Apr-2022 12:14:28 Asia/Calcutta] PHP Warning:  print_r() expects parameter 2 to be bool, object given in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 149
+[29-Apr-2022 12:15:38 Asia/Calcutta] PHP Warning:  Illegal string offset 'encryptedKey' in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 143
+[29-Apr-2022 12:15:38 Asia/Calcutta] PHP Warning:  Illegal string offset 'encryptedData' in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 144
+[29-Apr-2022 12:15:38 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 154
+[29-Apr-2022 06:46:04 UTC] PHP Parse error:  syntax error, unexpected ']', expecting ')' in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 143
+[29-Apr-2022 12:16:16 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 143
+[29-Apr-2022 12:16:16 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 144
+[29-Apr-2022 12:16:16 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 154
+[29-Apr-2022 21:17:22 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 143
+[29-Apr-2022 21:17:22 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 144
+[29-Apr-2022 21:17:22 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 154
+[29-Apr-2022 21:17:37 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 143
+[29-Apr-2022 21:17:37 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 144
+[29-Apr-2022 21:17:37 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 154
+[29-Apr-2022 21:19:02 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 143
+[29-Apr-2022 21:19:02 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 144
+[29-Apr-2022 21:19:02 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 154
+[29-Apr-2022 21:20:20 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 143
+[29-Apr-2022 21:20:20 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 144
+[29-Apr-2022 21:20:20 Asia/Calcutta] PHP Notice:  Trying to get property 'success' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 154
+[29-Apr-2022 21:44:20 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 148
+[29-Apr-2022 21:44:20 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testupiimps.php on line 149
+[29-Apr-2022 21:56:50 Asia/Calcutta] PHP Warning:  fopen(prod_public.txt): failed to open stream: No such file or directory in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testimps.php on line 24
+[29-Apr-2022 21:56:50 Asia/Calcutta] PHP Warning:  fread() expects parameter 1 to be resource, bool given in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testimps.php on line 25
+[29-Apr-2022 21:56:50 Asia/Calcutta] PHP Warning:  openssl_public_encrypt(): key parameter is not a valid public key in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testimps.php on line 28
+[29-Apr-2022 21:56:50 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedKey' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testimps.php on line 89
+[29-Apr-2022 21:56:50 Asia/Calcutta] PHP Notice:  Trying to get property 'encryptedData' of non-object in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testimps.php on line 90
+[29-Apr-2022 21:58:03 Asia/Calcutta] PHP Notice:  Undefined property: stdClass::$encryptedKey in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testimps.php on line 89
+[29-Apr-2022 21:58:03 Asia/Calcutta] PHP Notice:  Undefined property: stdClass::$encryptedData in /home/qz026pnac9ar/sellit.co.in/logisticapi/v1/testimps.php on line 90
