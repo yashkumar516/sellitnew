@@ -1,27 +1,29 @@
 <?php
+   global $screen,$body,$call,$war,$screencondition,$touchwork,$spot,$lines,$physical,$devicedetail,$Scratches,$dents,$side,$bents,$overallcondition,$vibratein,$microin;
+   global $mobage,$age,$copydisplay,$functional,$frontcamin,$backcamin,$volumein,$fingertouchin,$speakerin,$powerin,$chargingin,$facein,$audioin,$camglassin,$wifiin,$silentin,$battryin,$bluetoothin;
   if(isset($_POST['questions']))
   {
       $screen = $_POST['screenin'];
       $body = $_POST['bodyin'];
       $call = $_POST['callin'];
       $war = $_POST['warin'];
-      //   screen start
+      //screen start
       $screencondition = $_POST['screencondition'];
       $touchwork = $_POST['touch'];
       $spot = $_POST['spot'];
       $lines = $_POST['lines'];
-     $physical = $_POST['physical'];
-      //   body start
+      $physical = $_POST['physical'];
+      //body start
       $devicedetail = $_POST['devicedetail'];
       $Scratches = $_POST['Scratches'];
       $dents = $_POST['dents'];
       $side = $_POST['side'];
       $bents = $_POST['bent'];
       $overallcondition = $_POST['overallcondition'];
-      // mobile age
+      //mobile age
       $mobage = $_POST['mobage'];
       $age = $_POST['age'];
-    //   functional start
+      //functional start
       $copydisplay = $_POST['copydisplayin'];
       $functional = $_POST['functional'];
       $frontcamin = $_POST['frontcamin'];
